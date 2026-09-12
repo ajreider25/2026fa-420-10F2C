@@ -75,17 +75,6 @@ def delete_meeting():
     print("implement delete meeting function!")
 
 
-# setting function
-def add_setting():
-    print("implement add setting function!")
-
-def modify_setting():
-    print("implement modify setting function!")
-
-def delete_setting():
-    print("implement delete setting function!")
-
-
 # config functions
 def print_config():
     print("implement print config function!")
